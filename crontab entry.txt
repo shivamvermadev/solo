@@ -1,0 +1,1 @@
+* * * * * sleep 1 && solo -port=2023 cd /some/directory/ && /usr/bin/python3 /some/directory/pythonfile.py  2>&1 | /usr/bin/logger -t SOME_RANDOM_TAG
